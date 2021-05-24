@@ -1,5 +1,8 @@
- ## 👉 [Personal Website](https://iartist93.github.io/)
+### Hi, I'm Ahmad 👋
+
+Front-End Engineer [Website](https://iartist93.github.io/)
+
+- I like building app using Javascript - Mostly React.
 
 
-![dancing](https://i.pinimg.com/originals/56/d9/c3/56d9c3fd6524357656ae3b3b39d7ab66.gif)
 
